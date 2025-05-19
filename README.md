@@ -1,10 +1,15 @@
 # Aasaan Roadmap
 
-![Aasaan Roadmap Banner](https://via.placeholder.com/1200x300.png?text=Aasaan+Roadmap)  
+![](https://i.imgur.com/waxVImv.png)
+
+Project Report: https://docs.google.com/document/d/1KWb5dZEAN9ZovVdUH1pB6tXRQfDZxM_x/edit?usp=drive_link&ouid=100042811887820065096&rtpof=true&sd=true
+![](https://i.imgur.com/waxVImv.png)
+
 *A simplified, community-driven roadmap to guide your learning and development journey.*
 
 Aasaan Roadmap is a web-based platform designed to provide a clear, structured, and easy-to-follow guide for developers and learners. Whether you're a beginner or an experienced professional, this roadmap helps you navigate through various technologies, tools, and skills to grow in your career. Hosted at [https://thecallmebilalashiq.github.io/Aasaan_Roadmap/](https://thecallmebilalashiq.github.io/Aasaan_Roadmap/), it offers interactive resources and a user-friendly interface to streamline your learning path.
 
+![](https://i.imgur.com/waxVImv.png)
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
@@ -20,6 +25,7 @@ Aasaan Roadmap is a web-based platform designed to provide a clear, structured, 
 - **Responsive Design**: Accessible on desktop, tablet, and mobile devices.
 - **Open Source**: Free to use and modify under the MIT License.
 
+![](https://i.imgur.com/waxVImv.png)
 ## Installation
 To run the Aasaan Roadmap locally for development or testing, follow these steps:
 
@@ -44,6 +50,7 @@ To run the Aasaan Roadmap locally for development or testing, follow these steps
 
 *Note*: If the project uses a different framework (e.g., plain HTML/CSS or another static site generator), adjust the instructions accordingly after inspecting the repository.
 
+![](https://i.imgur.com/waxVImv.png)
 ## Usage
 1. Visit the live website at [https://thecallmebilalashiq.github.io/Aasaan_Roadmap/](https://thecallmebilalashiq.github.io/Aasaan_Roadmap/).
 2. Browse the roadmap categories (e.g., Frontend, Backend, DevOps) to find your learning path.
@@ -75,16 +82,16 @@ We welcome contributions from the community to make Aasaan Roadmap better! To co
    Go to the repository and submit a pull request. Provide a clear description of your changes.
 
 Please read our [CONTRIBUTING.md](CONTRIBUTING.md) file for detailed guidelines and ensure your contributions align with the project's goals.
-
+![](https://i.imgur.com/waxVImv.png)
 ## License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute the code as per the license terms.
 
 ## Contact
 For questions, suggestions, or feedback:
 - **Author**: Bilal Ashiq ([thecallmebilalashiq](https://github.com/thecallmebilalashiq))
-- **Email**: [your-email@example.com](mailto:your-email@example.com) *(Update with your actual email)*
+- **Email**: [your-email@example.com](mailto:methebilalashiq@example.com) *(Update with your actual email)*
 - **GitHub Issues**: Open an issue on the [repository](https://github.com/thecallmebilalashiq/Aasaan_Roadmap/issues).
-- **Twitter**: Follow updates on [your-twitter-handle](https://twitter.com/your-twitter-handle) *(Optional)*
+- **Twitter**: Follow updates on [your-twitter-handle](https://twitter.com/methebilalashiq) *(Optional)*
 
 Star ⭐ this repository if you find Aasaan Roadmap helpful, and share it with others to spread the knowledge!
 
